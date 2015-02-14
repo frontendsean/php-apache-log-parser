@@ -7,6 +7,6 @@ Outputs:
 * Number of total requests
 * Number of successful requests
 * Number of error requests
-* List requestd URLs (most common first)
+* List requested URLs (most common first)
 * List referrers (most common first)
 * List user agents (most common first)
